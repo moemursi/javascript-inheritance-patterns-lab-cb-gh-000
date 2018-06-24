@@ -1,7 +1,7 @@
 JavaScript Inheritance Patterns Lab
 ---
 
-## Objectives
+## Objectivesu
 
 1. Practice writing JavaScript objects that inherit from other objects
 2. Practice using `Object.create()`
